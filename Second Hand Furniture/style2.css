@@ -1,0 +1,12 @@
+.header-black-bar {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+	justify-content: center;
+}
+
+.content {
+	border: 1px solid black;
+	margin: 10px;
+	align-items: center;
+
+}
